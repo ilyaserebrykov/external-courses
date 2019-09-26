@@ -9,3 +9,4 @@ function typeChecker(a) {
 	
 	return undefined;
 }
+module.exports = typeChecker
