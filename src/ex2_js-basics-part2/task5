@@ -1,8 +1,0 @@
-var arr = [5, 8, 2, 4, 17, 6, 1]
-var max = arr[0];
-
-for (var i = 1; i<arr.lenght; i++) {
-	if (max < arr[i]) {
-		max = arr[i];
-	}
-}
