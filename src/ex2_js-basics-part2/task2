@@ -1,0 +1,5 @@
+var arr = [5, 8, 2, 4, 17, 6, 1]
+
+for (var i = 0; i < arr.lenght; i++) {
+	console.log(arr[i])
+}
